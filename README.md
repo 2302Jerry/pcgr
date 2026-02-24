@@ -1,7 +1,6 @@
-# PCGR (Probabilistic Concept Graph Reasoning) — runnable reference implementation
+# PCGR (Probabilistic Concept Graph Reasoning)
 
-This repo is a **clean, runnable** Python/PyTorch re-implementation of the key components of
-**Probabilistic Concept Graph Reasoning (PCGR)** for multimodal misinformation detection.
+This repo is a **clean, runnable** Python/PyTorch implementation of **Probabilistic Concept Graph Reasoning (PCGR)** for multimodal misinformation detection.
 
 It follows the paper’s main pipeline:
 
